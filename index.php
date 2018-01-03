@@ -1,31 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @sinmarteanAlin
-
-0
-0
-
-    0
-
-sinmarteanAlin/basicCalculator
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Insights
-Settings
-basicCalculator/index.html
-981a986 16 days ago
-@sinmarteanAlin sinmarteanAlin created index
-52 lines (41 sloc) 2.09 KB
 <html>
 <head>
 	<script src="script.js"></script>
